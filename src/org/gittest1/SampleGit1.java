@@ -1,10 +1,7 @@
 package org.gittest1;
 
 public class SampleGit1 {
-	public void test1(){
-		
-		
-	}
+	
 	public static void main(String[] args) {
 	        
 		      int num1 = 5, num2 = 15, sum;
