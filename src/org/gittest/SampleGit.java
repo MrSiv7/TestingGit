@@ -1,14 +1,10 @@
 package org.gittest;
 
 public class SampleGit {
+	public void test1() {
+
+	}
+ public static void main(String[] args) {
 	
-		public static void main(String[] args) {
-	        
-		      int num1 = 10, num2 = 20, sum;
-		      sum = num1 + num2;
-
-		      System.out.println("Sum of these numbers: "+sum);
-		   }
-		
-
+}
 }
